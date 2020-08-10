@@ -1,1 +1,94 @@
-<mxfile host="www.draw.io" modified="2020-08-10T17:57:21.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.59 Safari/537.36" version="13.5.9" etag="Kj-8zGduIEzQ6YJPmI4Z" type="github"><diagram id="nTI2HsddT2Dwkcm4moQS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-08-10T20:37:08.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.59 Safari/537.36" etag="shDbsvNUCSYIOUiI17A_" version="13.5.9" type="github">
+  <diagram id="nTI2HsddT2Dwkcm4moQS" name="Page-1">
+    <mxGraphModel dx="1186" dy="724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-1" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;lucida grande&amp;#34; , sans-serif ; font-size: 16px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://registry.npmjs.org/&quot; style=&quot;box-sizing: border-box ; color: rgb(203 , 56 , 55) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;lucida grande&amp;#34; , sans-serif ; font-size: 16px&quot;&gt;https://registry.npmjs.org&lt;/a&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-128.png;imageBackground=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aloaR4Yo0sIpyVq8Le7N-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-9" value="&lt;b&gt;&amp;nbsp;$ npm install&amp;nbsp;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aloaR4Yo0sIpyVq8Le7N-4">
+          <mxGeometry x="-0.6485" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-2" value="Jenkins" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png" vertex="1" parent="1">
+          <mxGeometry x="160" y="422" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aloaR4Yo0sIpyVq8Le7N-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-8" value="&lt;b&gt;&amp;nbsp;$ npm install&amp;nbsp;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aloaR4Yo0sIpyVq8Le7N-5">
+          <mxGeometry x="-0.5937" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-3" value="Developer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-07-128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="422" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aloaR4Yo0sIpyVq8Le7N-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1359" y="467" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-12" value="&lt;b&gt;&amp;nbsp;$ npm install&amp;nbsp;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aloaR4Yo0sIpyVq8Le7N-11">
+          <mxGeometry x="-0.6485" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-13" value="Jenkins" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png" vertex="1" parent="1">
+          <mxGeometry x="1065" y="569" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aloaR4Yo0sIpyVq8Le7N-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1359" y="467" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-15" value="&lt;b&gt;&amp;nbsp;$ npm install&amp;nbsp;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aloaR4Yo0sIpyVq8Le7N-14">
+          <mxGeometry x="-0.5937" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-24" value="&lt;font color=&quot;#000000&quot;&gt;proxy&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=#FF0000;" vertex="1" connectable="0" parent="aloaR4Yo0sIpyVq8Le7N-14">
+          <mxGeometry x="0.5466" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-16" value="Developer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-07-128.png" vertex="1" parent="1">
+          <mxGeometry x="1515" y="569" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FF0000;" edge="1" parent="1" source="aloaR4Yo0sIpyVq8Le7N-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360.5" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-23" value="&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=#FF0000;" vertex="1" connectable="0" parent="aloaR4Yo0sIpyVq8Le7N-20">
+          <mxGeometry x="-0.05" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FF0000;" edge="1" parent="1" source="aloaR4Yo0sIpyVq8Le7N-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1215" y="379.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-18" value="kubernetes-app.skybr-hml.digital" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1318" y="337" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-19" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;quot;source sans pro&amp;quot; , &amp;quot;lucida grande&amp;quot; , sans-serif ; font-size: 16px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://registry.npmjs.org/&quot; style=&quot;box-sizing: border-box ; color: rgb(203 , 56 , 55) ; font-family: &amp;quot;source sans pro&amp;quot; , &amp;quot;lucida grande&amp;quot; , sans-serif ; font-size: 16px&quot;&gt;https://registry.npmjs.org&lt;/a&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-128.png;imageBackground=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="40" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="aloaR4Yo0sIpyVq8Le7N-21" value="Libs SKY" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.cloud_repository;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="362" width="37" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
